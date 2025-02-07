@@ -1,4 +1,37 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 54548 ***
+Project Gutenberg's Poisonous Dwellers of the Desert, by Natt Noyes Dodge
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Poisonous Dwellers of the Desert
+
+Author: Natt Noyes Dodge
+
+Release Date: April 14, 2017 [EBook #54548]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK POISONOUS DWELLERS OF THE DESERT ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                                POISONOUS
                                 DWELLERS
@@ -122,7 +155,7 @@ Southwest.
   Deserts of the Southwest                                 _Frontispiece_
   Map of western United States                                       viii
   Centipede                                                             2
-  Enlarged view of under side of centipede’s head                       2
+  Enlarged view of under side of centipede's head                       2
   Deadly and non-deadly scorpions                                       4
   Giant desert hairy scorpion in alert position                         5
   Underside of black widow spider                                       8
@@ -138,7 +171,7 @@ Southwest.
   Puss caterpillar                                                     23
   Arizona coral snake                                                  24
   Western diamondback rattlesnake                                      25
-  Sidewinder or “horned” rattlesnake                                   27
+  Sidewinder or "horned" rattlesnake                                   27
   Poison mechanism of the rattlesnake                                  28
   Western black-headed snake                                           29
   Sonora lyre snake                                                    30
@@ -154,14 +187,14 @@ Southwest.
 EDITORIAL NOTE ABOUT INSECTICIDES
 
 Recommendations given in previous editions of this book regarding use of
-DDT and other “hard” pesticides are withdrawn in this 12th edition. We
+DDT and other "hard" pesticides are withdrawn in this 12th edition. We
 advise, until questions about merits and dangers of these products are
 resolved, that you contact a local agency before deciding what
 pesticides, if any, to use.
 
 We believe that every citizen should make a real effort to become
 informed about pesticides and potential changes in them, for use or
-non-use will likely have great impact on mankind’s future use of this
+non-use will likely have great impact on mankind's future use of this
 earth.
 
 
@@ -210,8 +243,8 @@ contents for authenticity.
 
 
 The late Dr. Forrest Shreve of the Desert Laboratory in Tucson, Arizona,
-stated that the principal characteristic of a desert is “deficient and
-uncertain rainfall.” From our grammar school geographies we gained the
+stated that the principal characteristic of a desert is "deficient and
+uncertain rainfall." From our grammar school geographies we gained the
 impression that a desert is a great expanse of sand piled into dunes by
 the wind, without moisture or vegetation, a land of thirst, desolation,
 even death.
@@ -240,10 +273,10 @@ restricted to that environment. Rattlesnakes, for example, so often
 associated with the arid regions of the West, occur in nearly every
 section of the United States.
 
-“A poison,” states _Encyclopedia Brittanica_, “is a substance which, by
+"A poison," states _Encyclopedia Brittanica_, "is a substance which, by
 its direct action on the mucous membrane, tissues, or skin, or after
 absorption into the circulatory system can, in the way which it is
-administered, injuriously affect health or destroy life.” A poisonous
+administered, injuriously affect health or destroy life." A poisonous
 creature may be defined as one which produces a poison for the
 administering of which it has developed a special mechanism.
 
@@ -262,7 +295,7 @@ mercilessly persecuted.
 
     [Illustration: _Giant desert centipede_]
 
-    [Illustration: _Enlarged view of underside of centipede’s head,
+    [Illustration: _Enlarged view of underside of centipede's head,
     showing the double pair of jaws._
                                    (Photographs by Marvin H. Frost Sr.)]
 
@@ -272,8 +305,8 @@ The material in this book is a digest of the findings of various
 competent scientific and medical authorities, and has been carefully
 checked for accuracy and authenticity.
 
-Don’t be frightened as a result of reading this booklet. The desert is
-just as safe—perhaps safer—for homemaking as many other parts of our
+Don't be frightened as a result of reading this booklet. The desert is
+just as safe--perhaps safer--for homemaking as many other parts of our
 country.
 
 
@@ -318,7 +351,7 @@ more suffering than the bites themselves.
 
 The tip of each of the 42 legs of the giant desert centipede is equipped
 with a sharp claw. It is possible when the centipede scurries across a
-person’s arm or leg for these claws to make pin-point punctures.
+person's arm or leg for these claws to make pin-point punctures.
 Infection introduced through these tiny openings readily leads to the
 belief that poison has been injected. Prompt application of an
 antiseptic will greatly reduce the possibility of infection.
@@ -342,7 +375,7 @@ scorpions are dangerous, that all persons should be informed regarding
 them, and that details of first-aid treatment should be common
 knowledge.
 
-In some parts of the South, scorpions are called “stinging lizards.”
+In some parts of the South, scorpions are called "stinging lizards."
 This is unfortunate because it has caused many people to think of
 lizards as poisonous and capable of stinging.
 
@@ -363,7 +396,7 @@ Southwest, except in Mexico where there are several.
 It is important, then, that all persons should recognize the deadly
 species. Study the photograph. Note that the deadly species (left) is
 about 2 inches in length, is straw colored, and that its entire body,
-especially the joints of the legs, pincers, and “tail,” are long and
+especially the joints of the legs, pincers, and "tail," are long and
 slender. It has a streamlined appearance. This is in contrast with the
 stubby or chunky appearance of the many non-deadly species.
 
@@ -372,11 +405,11 @@ body are for the purpose of holding the prey, which consists primarily
 of soft-bodied insects, while the scorpion tears it to pieces with its
 jaws.
 
-The sting is located at the extremity of the “tail” and consists of a
+The sting is located at the extremity of the "tail" and consists of a
 very sharp, curved tip attached to a bulbous organ containing the
 poison-secreting glands and poison reservoir. The sting is driven into
 the flesh of the victim by means of a quick, spring-like flick of the
-“tail.” Muscular pressure forces the poison into the wound through two
+"tail." Muscular pressure forces the poison into the wound through two
 tiny openings very near the sting tip. Thus the poison is injected
 beneath the skin, making treatment difficult, as the impervious skin
 renders surface application ineffective.
@@ -389,7 +422,7 @@ site of the sting but very little inflammation or swelling.
 
     [Illustration: _Giant desert hairy scorpion in alert position._]
 
-According to Kent and Stahnke[1], “the victim soon becomes restless.
+According to Kent and Stahnke[1], "the victim soon becomes restless.
 This increases to a degree that, in cases of small children, the patient
 is entirely unable to cooperate with attendants. It turns, frets, and
 does not remain quiet for an instant. The abdominal muscles may become
@@ -401,14 +434,14 @@ unlike that observed in a severe case of bronchial asthma. Involuntary
 urination and defecation may occur. In fatal cases the above symptoms
 may become so marked that apparently the child dies from exhaustion.
 
-“In cases that recover, the acute symptoms subside in 12 hours or less.
+"In cases that recover, the acute symptoms subside in 12 hours or less.
 In the adult, symptoms as enumerated may be encountered, but as a rule
 they are less severe. Numbness is usually experienced at the site of the
 sting. If one of the appendages is stung, the member may become
 temporarily useless. Two cases of temporary blindness have been
 experienced. Some patients complain of malaise (discomfort) for many
 days following the sting. One patient developed a tachycardia (rapid
-heart) lasting two weeks.”
+heart) lasting two weeks."
 
 
 Treatment of scorpion stings
@@ -416,28 +449,28 @@ Treatment of scorpion stings
 Dr. Stahnke recommends the following treatment for a person stung by one
 of the deadly scorpions:
 
-_“First, apply a tight tourniquet near the point of puncture and between
+_"First, apply a tight tourniquet near the point of puncture and between
 it and the heart.... As soon as possible, place an ice pack on the site
 of the sting. Have a pack of finely crushed ice wrapped in as thin a
 cloth as possible. Cover and surround the area for about 10 to 12
 inches. After the ice pack has been in place for approximately 5
 minutes, remove the tourniquet._
 
-_“If a person is stung on the hand, foot, or other region that can be
+_"If a person is stung on the hand, foot, or other region that can be
 submerged completely, place the portion, as soon as possible, in an
 ice-and-water mixture made of small lumps of ice (about half the size of
 ice cubes) in a proportion of half ice and half water. Treatment should
 not be continued longer than 2 hours._
 
-_“NEVER put salt in the water. After the first 15 minutes, the hand or
+_"NEVER put salt in the water. After the first 15 minutes, the hand or
 foot must be removed for relief for 1 minute every 10 minutes in the
-iced water.”_
+iced water."_
 
-_Dr. Stahnke continues: “If the patient is less than 3 years old, if the
+_Dr. Stahnke continues: "If the patient is less than 3 years old, if the
 patient has been stung several times, or if the patient has been stung
 on the back of the neck, anywhere along the backbone, or on an area of
 deep flesh like the buttock, thigh, or trunk of the body, or especially
-on the genital organs, medical assistance should be obtained at once.”_
+on the genital organs, medical assistance should be obtained at once."_
 
 _Dr. F. A. Shannon advises that no person with disease involving the
 circulation of the extremities should use iced water. Morphine is a
@@ -458,19 +491,19 @@ reappear, treatment should be resumed.
 Scorpion antivenin for stings of _Centruroides sculpturatus_ and _C.
 gertschi_ is available at the Poisonous Animals Research Laboratory,
 Arizona State University, Tempe, Arizona. The recommended method of
-treatment is the “L-C” method. The L stands for ligature and C for
+treatment is the "L-C" method. The L stands for ligature and C for
 cryotherapy (tourniquet and ice pack treatment).
 
-_Treatment is as follows: “As soon as possible (after the sting has been
+_Treatment is as follows: "As soon as possible (after the sting has been
 received) inject intramuscularly or subcutaneously, 5 to 10 cc. of
 natural serum or 3 cc. of the concentrated. In serious cases, inject
-intravenously.” No immediate untoward results have been noted, but some
+intravenously." No immediate untoward results have been noted, but some
 cases of skin irritation develop later._
 
 In cases of scorpion poisoning when antivenin is not available, the
 following treatment is recommended[12]:
 
-“_Use morphine with extreme caution. It has not been found effective in
+"_Use morphine with extreme caution. It has not been found effective in
 the usual doses. Barbiturates are more effective and less dangerous.
 Bromides in large doses are apparently of value. In those cases
 characterized by severe pulmonary edema (accumulation of fluid in the
@@ -478,7 +511,7 @@ lungs) atropine is indicated along with general supportive measures.
 Compresses, using a fairly concentrated ammonium hydroxide solution,
 have been found helpful if applied within a few moments. If applied for
 the first time about 10 minutes after the sting, no apparent benefit is
-attained.”_
+attained."_
 
 
 Where scorpions live
@@ -488,11 +521,11 @@ of insects at night. The deadly species are commonly found under bark on
 old stumps, in lumber piles, or in firewood piled in dark corners. It is
 not unusual to find them in basements or in linen closets. Adults may
 find an unpleasant surprise in a shoe or a piece of clothing taken from
-a closet or dresser drawer. Legs of cribs or children’s beds may be
+a closet or dresser drawer. Legs of cribs or children's beds may be
 placed in cans containing kerosene or in wide-mouthed jars.
 
 Moral: Keep your garage, basement, and premises in general, clean, tidy,
-and free from insects on which scorpions feed. Screen children’s cribs,
+and free from insects on which scorpions feed. Screen children's cribs,
 and pull the sheets clear back before putting the youngsters to bed.
 Shake out your shoes before putting them on, and inspect sheets,
 blankets, or clothing which have been in closets or drawers.
@@ -523,7 +556,7 @@ piles. Indoors they are most frequently encountered in dark corners of
 garages, basements, and stables.
 
     [Illustration: _Underside of black widow spider showing
-    characteristic red “hourglass” mark on the abdomen by which this
+    characteristic red "hourglass" mark on the abdomen by which this
     species may be recognized._]
 
 A favorite and especially dangerous location in which a black widow
@@ -547,9 +580,9 @@ This is neither necessary nor desirable.
 The female black widow is a medium-sized, glossy black, solitary spider
 with a globular abdomen spectacularly marked on the underside with a
 bright red spot roughly the shape of an hourglass. The normal position
-of the spider is hanging upside down in her web so that the “hourglass”
+of the spider is hanging upside down in her web so that the "hourglass"
 is plainly visible if she is below the level of the eye. Her overall
-length is 1 to 1¼ inches.
+length is 1 to 1-1/4 inches.
 
 The males are much smaller and, like the immature females, are grey in
 color and variously striped and spotted.
@@ -577,9 +610,9 @@ cramped, and over the abdomen, where the muscles become rigid. There is
 nausea and vomiting, difficulty in breathing, dizziness, ringing in the
 ears, and headache. Blood pressure is raised, eye pupils are dilated and
 the reflexes are overactive. Medical records, according to Bogen[2],
-show that “despite its severe symptoms, arachnidism (poisoning by
+show that "despite its severe symptoms, arachnidism (poisoning by
 spider, tick, or scorpion) is, in the majority of cases, a self-limiting
-condition, and generally clears up spontaneously within a few days,”
+condition, and generally clears up spontaneously within a few days,"
 although cases of death resulting from black widow bites are on
 record[3].
 
@@ -596,7 +629,7 @@ puncture should be treated with iodine, the patient kept as quiet as
 possible, and an ice pack applied or the part submerged in iced-water,
 and a physician summoned immediately._
 
-_Baerg[4] recommends hot baths—as hot as the patient can endure. These
+_Baerg[4] recommends hot baths--as hot as the patient can endure. These
 should be used only in cases of advanced poisoning, never immediately
 after the bite is received._
 
@@ -614,7 +647,7 @@ solution. The patient should be encouraged to drink as much water as he
 will. He usually leaves the hospital on the fourth day. Recent
 experiments with an injection of neostigmine followed by one of atropine
 have had encouraging results, and the use of ACTH in several cases has
-had spectacular results, according to _Readers’ Digest_ (Nov. 1951, p.
+had spectacular results, according to _Readers' Digest_ (Nov. 1951, p.
 45).
 
 
@@ -642,10 +675,10 @@ recluse spider, whose poison caused serious damage to the skin at the
 site of the puncture and often produced a severe systemic reaction
 sometimes fatal to young children.
 
-The spider is approximately ⁵/₁₆ inch in length, dark brown to fawn,
+The spider is approximately ^5/_1_6 inch in length, dark brown to fawn,
 with long legs. A violin-shaped spot on the upper side of the
 cephalothorax (head portion) is the only noticeable identification
-giving rise to another common name—fiddleback spider. It is also known
+giving rise to another common name--fiddleback spider. It is also known
 as brown spider, or brown house spider.
 
 Little has been published on its life history, but it has been reported
@@ -656,12 +689,12 @@ contributing to the rapid geographical spread of this species by
 unknowingly carrying it across state lines in their luggage. The brown
 recluse spider, according to Paul N. Morgan, research microbiologist at
 the Little Rock, Arkansas, Veterans Administration Hospital,
-“constitutes a hazard to the health of man, perhaps greater than the
-Black Widow.”
+"constitutes a hazard to the health of man, perhaps greater than the
+Black Widow."
 
     [Illustration: _Brown recluse spider_
- (Photo—Division of Dermatology Dept. of Medicine U. of Arkansas Medical
-                                                                Center)]
+        (Photo--Division of Dermatology Dept. of Medicine U. of Arkansas
+                                                        Medical Center)]
 
 
 Where found
@@ -673,9 +706,9 @@ sacking or old clothing. Its web is large and irregular.
 
 The brown recluse bite
 
-Because of the spider’s nocturnal and retiring habits few people are
+Because of the spider's nocturnal and retiring habits few people are
 bitten, in spite of a large spider population. According to an article
-in the August, 1963 Journal of the Arkansas Medical Society, “there may
+in the August, 1963 Journal of the Arkansas Medical Society, "there may
 be mild transitory stinging at the time of the bite, but there is little
 associated early pain. The patient may be completely unaware he has been
 bitten, and the spider is seldom seen. Only after 2 to 8 hours does
@@ -683,35 +716,35 @@ pain, varying from mild to severe, begin. After several days an ulcer
 may form at the site of the bite. The venom appears to contain a
 spreading factor resulting in a spread of the necrosis or tissue
 destruction. In some instances, the ulcer may be so large that skin
-grafting is required, but the graft may take poorly or not at all. “The
+grafting is required, but the graft may take poorly or not at all. "The
 bite may also produce serious systemic symptoms including fever, chills,
 weakness, vomiting, joint pain, and a spotty skin eruption, all
-occurring within 24-48 hours after the venom injection.”
+occurring within 24-48 hours after the venom injection."
 
 
 Treatment for bite of the brown recluse spider
 
 Physicians at the University of Arkansas Medical Center, Little Rock,
-prefer the prompt administration of corticosteroids, stating, “Large
+prefer the prompt administration of corticosteroids, stating, "Large
 doses given early may completely prevent the gangrenous response as well
 as the systemic reaction. The dosage schedule which we have found most
 effective is: 80 mg. of methylprednisolone (Deep-Medrol) intramuscularly
 immediately followed by one or two additional doses of same amount at
 24-48 hour intervals. Subsequently, step wise decrease to 40, 20, 10
-mg., every 24-48 hours, depending on the patient’s response, is carried
-out.”
+mg., every 24-48 hours, depending on the patient's response, is carried
+out."
 
 Dr. Herbert L Stahnke, Director of the Arizona Poisonous Animals
 Research Laboratory, reports that an antivenin has been prepared in
 South America to control both the local and general symptoms from the
-bite of a closely related species of _Loxosceles_. He states, “locally
+bite of a closely related species of _Loxosceles_. He states, "locally
 there seems to be a favorable response to hydroxyzine, 100 mg. four
 times a day. I would say that cryotherapy, as we recommend it, would
 prevent all symptoms. I would recommend that the site of the bite be
 packed in crushed ice for 6 to 8 hours, after which the patient should
 be kept warm to the point of perspiration with the ice pack continuing
 for a total of 24 hours. In other words, treated like a pit viper bite,
-but over a much shorter period of time.” Avoid narcotics (morphine,
+but over a much shorter period of time." Avoid narcotics (morphine,
 demerol, dilaudid, codeine, etc.) since they enhance the systemic
 effects.
 
@@ -731,7 +764,7 @@ by persons who have been bitten by spiders describe reactions similar to
 those caused by the bite of the brown recluse.
 
 According to Dr. Findley E. Russell, toxicology researcher of the
-University of Southern California Medical School, the “venom” injected
+University of Southern California Medical School, the "venom" injected
 by the brown spider is not really a toxin but a complete chemical that
 inhibits the normal action of infection-fighting antibodies in the human
 anatomy.
@@ -752,14 +785,14 @@ Southwest are commonly called tarantulas.
 
 This name originated in southern Italy where, centuries ago, according
 to a story, in the little town of Tarantum (now Taranto) there developed
-an epidemic of “tarentism” supposedly resulting from the bite of a large
+an epidemic of "tarentism" supposedly resulting from the bite of a large
 wolf spider (_Lycosa tarantula_). Victims were affected with melancholy,
 stupor, and an irresistible desire to dance. Presumably, the Neapolitan
 folk dance, Tarentella, came about as a result of an effort to develop a
 cure for tarentism.
 
 Early day immigrants brought to the western hemisphere both the
-unreasoning fear of spider bites and the name “tarantula,” which they
+unreasoning fear of spider bites and the name "tarantula," which they
 applied to the large and fearsome-looking bird spider of the Southwest.
 Since that time this superstitious fear has become established among the
 uneducated and uninformed people of the southwestern United States,
@@ -812,7 +845,7 @@ carrying and there is evidence the conenoses in San Diego County,
 California, are infected with a disease-producing flagellate. Lack of
 large bug populations in close contact with man and ineffective
 transmission habits protect man in the Southwest from disease contacts.
-However, the site of the bug’s bite becomes inflamed, and swelling may
+However, the site of the bug's bite becomes inflamed, and swelling may
 spread over an area up to a foot in diameter.
 
 In general appearance, conenose bugs resemble assassin and squash bugs,
@@ -828,7 +861,7 @@ capillaries by inserting the stylets of the proboscis, they seek
 locations where there is a source of blood. These include livestock
 barns, poultry houses, and human habitations.
 
-    [Illustration: _Conenose bugs_—Triatoma protracta
+    [Illustration: _Conenose bugs_--Triatoma protracta
     _Adult male (rounded abdomen); Adult female (pointed abdomen)_
                                 (Photo courtesy of Dr. Sherwin F. Wood)]
 
@@ -864,16 +897,16 @@ Treatment of conenose bites
 
 Although a specific treatment for conenose bites has not been developed,
 some physicians use epinephrine. More promising results appear possible
-with antihistamine preparations (under doctor’s prescription) such as
+with antihistamine preparations (under doctor's prescription) such as
 benadryl and pyribenzamine, which have been effective by mouth, and in
 severe reactions, by intravenous injections.
 
-Matheson[6] writes: “When a blood-sucking insect bites, it is always
+Matheson[6] writes: "When a blood-sucking insect bites, it is always
 possible that the proboscis may be contaminated with pathogenic
 organisms. If such organisms become localized near the point of puncture
 or gain access to the blood stream, results may be serious. It is always
 wise to use some disinfectant such as alcohol, tincture of iodine, etc.,
-and to press out the blood, if possible, from bites made by insects.”
+and to press out the blood, if possible, from bites made by insects."
 Antibiotics are frequently necessary to control the extremely high
 percentage of secondary infections.
 
@@ -1051,10 +1084,10 @@ faucets, and leaking water containers, often congregating in such
 numbers around sources of water that they become a distinct nuisance to
 men and to animals. Individual honeybees are frequently found in
 flowers, or may fly in through an open automobile window, and sting one
-of the car’s occupants. Small children sometimes receive stings while
+of the car's occupants. Small children sometimes receive stings while
 playing on white clover lawns or going barefoot. Farm boys may be
 severely stung as a result of molesting beehives or throwing stones at
-bees’ nests in trees or caves.
+bees' nests in trees or caves.
 
 Normally, poison introduced by the sting of a honeybee is local in
 effect and little more than a painful inconvenience to the person stung.
@@ -1076,7 +1109,7 @@ definitely a poisonous and dangerous creature.
   1. Poison sack or reservoir.
   2. Muscles which force sting into flesh and pump poison from sack.
           These muscles continue operating for as long as 20 minutes
-          after the sting has been torn from the bee’s body.
+          after the sting has been torn from the bee's body.
   3. Sheath within which shafts of sting slide.
   4. Barbed tip of sting. These barbs hold the sting in the flesh of the
           victim so securely as to tear the sting from the body of the
@@ -1146,9 +1179,9 @@ relatively simple, may be self-administered, and has already proved
 effective in treating serious cases of excessive susceptibility
 resulting from supersensitive persons receiving bee stings.
 
-Experimental use of calcium lactate to counteract “sting shock”
-indicates a high degree of success. Physicians should investigate “Death
-by Sting Shock,” p 234, _Science News Letter_, April 9, 1955. Use of
+Experimental use of calcium lactate to counteract "sting shock"
+indicates a high degree of success. Physicians should investigate "Death
+by Sting Shock," p 234, _Science News Letter_, April 9, 1955. Use of
 antihistamines or a hormone of the cortizone family has had some
 success.
 
@@ -1162,7 +1195,7 @@ success.
 Superficially resembling a tiny, light, golden-yellow kitten, the puss
 caterpillar is a short, bushy larva of a small gray-brown moth with
 whitish underwings. When disturbed, the caterpillar rears back on its
-hind legs and “makes a face.” The species has long been widespread
+hind legs and "makes a face." The species has long been widespread
 throughout the southern states feeding on the foliage of oak, elm, plum,
 and sycamore trees. They have been found also in truck gardens and
 orchards. Recently they have invaded the desert mountains of the
@@ -1175,7 +1208,7 @@ Globe-Miami area of Arizona, feeding on the foliage of oaks.
 Because of their long, silky hairs, children are tempted to touch them.
 Under the hairs are small protrusions, each bearing a circlet of very
 small spines resembling tiny porcupine quills. The venom is injected
-when these spines pierce the child’s skin and the tips break off,
+when these spines pierce the child's skin and the tips break off,
 producing a burning, itching, irritated, inflamed area. The welts,
 ranging in size from a dime to a dollar, are sometimes followed by
 severe muscle cramps and headache. Not lethal, the toxin may cause
@@ -1217,13 +1250,13 @@ of the pit viper group, to which the copperheads, cottonmouths, and
 rattlesnakes belong. The teeth of the coral are short, and to be
 effective the coral snake must chew rather than strike its victim.
 
-The Arizona coral snake is so small—rarely reaching 2 feet in length—and
-its mouth is so tiny, that it would be very difficult for it to bite an
-adult human. It is conceivable that a small child playing with one might
-be bitten.
+The Arizona coral snake is so small--rarely reaching 2 feet in
+length--and its mouth is so tiny, that it would be very difficult for it
+to bite an adult human. It is conceivable that a small child playing
+with one might be bitten.
 
 Because of its close resemblance to several ringed or banded snakes of
-the desert and also to the Arizona mountain kingsnake, or “coral”
+the desert and also to the Arizona mountain kingsnake, or "coral"
 kingsnake, of the ponderosa pine highlands of the Southwest, a brief
 description of the Arizona coral snake is indicated. One of the
 beautifully spectacular snakes of the desert, it is marked by bands of
@@ -1313,7 +1346,7 @@ docile. All are dangerous!
 
 It is not within the scope of this publication to enter into a
 discussion of the many species, so the reader who wishes to pursue that
-subject further is referred to Klauber’s publication on the
+subject further is referred to Klauber's publication on the
 rattlesnakes[10].
 
 
@@ -1328,11 +1361,11 @@ it throws a portion of its body ahead as a loop, thus serving to anchor
 or pull the rest of the body ahead. Thus it progresses sideways in a
 looping, or winding, motion most interesting to observe.
 
-    [Illustration: _Sidewinder or “horned” rattlesnake_]
+    [Illustration: _Sidewinder or "horned" rattlesnake_]
 
 Although the term sidewinder is often used loosely in referring to other
 species of rattlesnakes, it actually applies only to this particular
-species—_Crotalus cerastes_.
+species--_Crotalus cerastes_.
 
 
 _Helpful precautions_
@@ -1341,7 +1374,7 @@ In snake country, it is important to take a flashlight along whenever
 there is occasion to go outside at night in summer to be sure that there
 are no rattlesnakes lying across your path. If you sleep out of doors.
 keep your bed off the ground if possible. The widely believed statement
-that, “a rattlesnake will not crawl across a hair rope” is not true,
+that, "a rattlesnake will not crawl across a hair rope" is not true,
 although such a statement will often precipitate an argument.
 
 Persons much in the field should provide themselves with a suction-type
@@ -1405,8 +1438,8 @@ instructions; follow them carefully._
 
 Rattlesnake venom contains digestive enzymes which attack and destroy
 tissue, and because of this and the possibility of bacterial infection
-introduced by cutting the skin, another method of treatment—cryotherapy
-(treatment with cold)—advocated by Dr. Herbert L. Stahnke, Poisonous
+introduced by cutting the skin, another method of treatment--cryotherapy
+(treatment with cold)--advocated by Dr. Herbert L. Stahnke, Poisonous
 Animals Laboratory, Arizona State University, seems to be gaining more
 and more support. This technique is designed to prevent and control the
 chemical action of the venom and of bacteria, as well as minimizing
@@ -1416,8 +1449,8 @@ under stress may more than double the toxic effects of the venom.
 Cut-and-suction, or any similar treatment, tends to greatly increase
 stress.
 
-The following description of treatment is excerpted from “American
-Journal of Tropical Medicine and Hygiene,” Volume 6, Number 2, March,
+The following description of treatment is excerpted from "American
+Journal of Tropical Medicine and Hygiene," Volume 6, Number 2, March,
 1957, _The Treatment of Snake Bite_, by Herbert L. Stahnke, Fredrick M.
 Allen, Robert V. Horan, and John H. Tenery:
 
@@ -1443,8 +1476,8 @@ permitted to chill, since this increases body stress._
 
 _6. Change from hypothermia to cryotherapy. This is accomplished as
 follows: after the first 24 hours following the bite, the patient should
-be kept somewhat uncomfortably warm—that is, to the point of
-perspiration—and encouraged to drink much water. This step is
+be kept somewhat uncomfortably warm--that is, to the point of
+perspiration--and encouraged to drink much water. This step is
 exceedingly important. Unless the patient is kept uncomfortably warm the
 proteolytic portion of the venom will not leave the site of the bite.
 Consequently, when hypothermia is stopped, the concentration of this
@@ -1462,12 +1495,12 @@ _7. The warm-up period after Cryotherapy is important. This must be done
 gradually. Remove the member from the crushed ice and place it in ice
 water (without ice). Allow the water to warm to room temperature._
 
-Dr. Walter C. Alvarez in the _Santa Fe New Mexican_, 8-18-57: “Recently,
+Dr. Walter C. Alvarez in the _Santa Fe New Mexican_, 8-18-57: "Recently,
 Dr. Wm. Deichmann, John E. Dees, M. L. Keplinger, John J. Farrell, and
 W. E. MacDonald Jr. reported that hydrocortizone is a life-saving drug
 when given to animals that have suffered poisoning from rattlesnake
 venom. Instead of only the 17% of the untreated animals that survived,
-75% of treated animals were saved.”
+75% of treated animals were saved."
 
 
 
@@ -1540,7 +1573,7 @@ Occasionally encountered ambling across stretches of open desert,
 especially in the spring, the Gila monster is normally docile and bends
 every effort toward escape among the stiff stems of some bush or beneath
 the protecting spine-clad stems of a cactus plant. Sometimes an
-individual with a “chip on its shoulder” may be met, or one in a normal
+individual with a "chip on its shoulder" may be met, or one in a normal
 state of mind may be teased or prodded into anger, when it advances with
 open mouth, sputtering and hissing.
 
@@ -1548,11 +1581,11 @@ When aroused, the Gila monster is remarkably agile, making quick turns
 of its head to snap at nearby objects. If it secures a grip, it hangs on
 with bulldog-like tenacity, grinding the object between its teeth.
 
-Gila monsters reproduce by means of eggs which are about 2½ inches long
-with a tough, parchment-like skin. From 5 to 13 eggs are deposited by
-the female in a hole which she scoops in moist sand in a sunny location.
-After laying the eggs, she covers them with sand, and leaves them for
-the heat of the sun to hatch.
+Gila monsters reproduce by means of eggs which are about 2-1/2 inches
+long with a tough, parchment-like skin. From 5 to 13 eggs are deposited
+by the female in a hole which she scoops in moist sand in a sunny
+location. After laying the eggs, she covers them with sand, and leaves
+them for the heat of the sun to hatch.
 
     [Illustration: _Poison mechanism of the Gila monster_
                                                    Redrawn from Dr. Fox]
@@ -1564,7 +1597,7 @@ the heat of the sun to hatch.
   5. Eye.
   6. Dissected lower jaw.
 
-The Gila monster’s tail serves as a storehouse of nourishment, being
+The Gila monster's tail serves as a storehouse of nourishment, being
 thick and heavy in times of plenty, and thin and rope-like in the early
 spring when the reptile first appears after months of hibernation,
 during which time it has lived on the reservoir of fat stored in its
@@ -1609,7 +1642,7 @@ Furthermore, the Gila monster is protected by State law.
 Practically everyone is aware of the widespread fear of snakes exhibited
 by people of all races and in all walks of life. This fear although
 largely emotional, is rationalized by many persons with the statement
-“Well, it MIGHT be poisonous.” Other persons believe that there is some
+"Well, it MIGHT be poisonous." Other persons believe that there is some
 rule of thumb, such as a flat or triangular-shaped head, by which all
 poisonous snakes may be recognized. A great many persons kill all
 snakes, just on general principles. Thus the innocent suffer with the
@@ -1628,10 +1661,10 @@ is MAN. Almost every time man reduces or destroys one phase of nature,
 he releases, in so doing, previously unrecognized forces which turn on
 him in a manner that he least expects. Snakes, in general, live on small
 rodents, thereby helping to maintain a balance whereby rodents are
-unable to increase to such a point that they get out of nature’s
+unable to increase to such a point that they get out of nature's
 control. Kill all of the snakes in a given area, and some of the control
 on rodent population is removed with a resulting increase in the
-destruction of vegetation and consequent damage to farmers’ crops. So if
+destruction of vegetation and consequent damage to farmers' crops. So if
 you must kill snakes, by all means limit your activities to those which
 are known definitely to be poisonous.
 
@@ -1648,7 +1681,7 @@ beings. Among aboriginal peoples, these superstitions are a part of
 their religion and have a powerful effect upon their thinking. For
 example, among the Hopi Indians of northern Arizona, snakes may be
 messengers who, if properly indoctrinated, will convey to the rain gods
-expressions of the people’s need for moisture in order that their crops
+expressions of the people's need for moisture in order that their crops
 may mature.
 
 Even among a people who for years have had the benefit of scientific
@@ -1689,7 +1722,7 @@ struggles to escape, emitting a faint, high-pitched squeak.
 
 Although the banded gecko is sometimes mistaken for the young of a Gila
 monster, in general the desert people accuse it of no definite crime,
-stating merely “we have heard that it is very poisonous,” and in
+stating merely "we have heard that it is very poisonous," and in
 consequence, kill it whenever they find it.
 
 
@@ -1705,13 +1738,13 @@ feared.
 
     [Illustration: _Solpugid or sun Spider_]
 
-“Anything so ugly MUST be poisonous,” seems to be the principal basis
+"Anything so ugly MUST be poisonous," seems to be the principal basis
 for its unhappy reputation.
 
 It is often found inside buildings where it has gone in search of insect
 prey, and Mexican families living in adobe houses with dirt floors are
 reported to be terrorized by it. In Mexico and in many parts of the
-Southwest it is known as _niña de la tierra_ or child-of-the-earth.
+Southwest it is known as _ni�a de la tierra_ or child-of-the-earth.
 
 The range of the solpugid or sun spider is by no means limited to the
 desert, but its reputation as a poisonous creature seems to be much
@@ -1741,12 +1774,12 @@ shy and nocturnal in its habits. Its striking appearance is due to its
 head which is round, bald, and with markings on top that form, with the
 use of a little imagination, a simple, smiling face. It is this that
 suggests to the Spanish-speaking people of the Southwest, who
-occasionally dig it from its burrow, the name “_niña de la tierra_.” The
+occasionally dig it from its burrow, the name "_ni�a de la tierra_." The
 Navajo Indians call it _woh-seh-tsinni_, meaning Old Man Bald-head.
 
 By the superstitious natives, this creature is believed to be highly
 venomous and frequently the death of a horse or cow is blamed by the
-owner on a “_chacho_” that has crawled into the hay.
+owner on a "_chacho_" that has crawled into the hay.
 
 Actually, the Jerusalem cricket is harmless and may be handled with
 perfect impunity by anyone, although it may inflict a painful nip.
@@ -1797,20 +1830,20 @@ in their normal relationship with other creatures.
                             REFERENCES CITED
 
 
-[1]Kent, Melvin, and Stahnke, H. L., “Effect and Treatment of Arizona
-    Scorpion Stings,” _Southwestern Medicine_, April, 1939, pp. 12-121,
+[1]Kent, Melvin, and Stahnke, H. L., "Effect and Treatment of Arizona
+    Scorpion Stings," _Southwestern Medicine_, April, 1939, pp. 12-121,
     124.
 
-[2]Bogen, Emil, “Poisonous Spider Bites,” _Journal of the American
+[2]Bogen, Emil, "Poisonous Spider Bites," _Journal of the American
     Medical Association_, Vol. 99, No. 24, December 10, 1932.
 
-[3]Thorp, Raymond W., and Woodson, Weldon D., _Black Widow, America’s
+[3]Thorp, Raymond W., and Woodson, Weldon D., _Black Widow, America's
     Most Poisonous Spider_, University of North Carolina Press, 1945.
 
-[4]Baerg, W. J., “The Effects of the Bite of _Latrodectus mactans_,”
+[4]Baerg, W. J., "The Effects of the Bite of _Latrodectus mactans_,"
     _Journal of Parasitology_, Vol. IX, No. 3, March, 1933, pp. 161-169.
 
-[5]Wehrle, L. P., “Observations on Three Species of _Triatoma_,”
+[5]Wehrle, L. P., "Observations on Three Species of _Triatoma_,"
     _Bulletin of the Brooklyn Entomological Society_, Vol. XXIV, No. 3,
     June, 1939, pp. 145-154.
 
@@ -1819,7 +1852,7 @@ in their normal relationship with other creatures.
 
 [7]Jones, W. Ray, King County Medical Association, Seattle, Washington.
 
-[8]Githens, T. H., “Snake Bite in the United States,” _Scientific
+[8]Githens, T. H., "Snake Bite in the United States," _Scientific
     Monthly_, August, 1935, pp. 163-167.
 
 [9]Pope, Clifford H., _Snakes Alive and How They Live_, Viking Press,
@@ -1829,9 +1862,9 @@ in their normal relationship with other creatures.
     Influence on Mankind_, 2 vol., University of California Press,
     Berkeley, 1956.
 
-[11]Cowles, R. B., and Bogert, C. M., “Observation on the California
+[11]Cowles, R. B., and Bogert, C. M., "Observation on the California
     Lyre Snake, _Trimorphoden vandenburghi_, Klauber. With notes on the
-    Effectiveness of Its Venom,” _Copeia_, July 16, 1935.
+    Effectiveness of Its Venom," _Copeia_, July 16, 1935.
 
 [12]Stahnke, Herbert L., _Scorpions_, Arizona State University
     Bookstore, Tempe, Arizona, 1949.
@@ -1845,24 +1878,24 @@ in their normal relationship with other creatures.
                    PUBLICATIONS YOU MAY WISH TO READ
 
 
-Comstock, John Henry: “_The Spider Book_,” Comstock Publishing Co. Inc.,
+Comstock, John Henry: "_The Spider Book_," Comstock Publishing Co. Inc.,
     Ithaca, N. Y., 1948.
 
-Klauber Laurence M.: “_Rattlesnakes, Their Habits, Life Histories, and
-    Influence on Mankind_,” 2 volumes, University of California Press,
+Klauber Laurence M.: "_Rattlesnakes, Their Habits, Life Histories, and
+    Influence on Mankind_," 2 volumes, University of California Press,
     Berkeley, 1956.
 
-Minton, Sherman A. Jr.: “_Snakebite_,” Scientific American, p. 114,
+Minton, Sherman A. Jr.: "_Snakebite_," Scientific American, p. 114,
     January, 1957.
 
-Shannon, Federick A.: “_Comments on the Treatment of Reptile Poisoning
-    in the Southwest_,” reprinted from Southwestern Medicine, Volume
+Shannon, Federick A.: "_Comments on the Treatment of Reptile Poisoning
+    in the Southwest_," reprinted from Southwestern Medicine, Volume
     XXXIV, No. 10, October, 1953.
 
-Stahnke, Herbert L.: “_Scorpions_,” Poisonous Animals Research
+Stahnke, Herbert L.: "_Scorpions_," Poisonous Animals Research
     Laboratory, Tempe, Arizona, 1956.
 
-Stahnke, Herbert L.: “_The Treatment of Venomous Bites and Stings_,”
+Stahnke, Herbert L.: "_The Treatment of Venomous Bites and Stings_,"
     Poisonous Animals Research Laboratory, Tempe, Arizona, 1958.
 
 
@@ -1970,7 +2003,7 @@ Stahnke, Herbert L.: “_The Treatment of Venomous Bites and Stings_,”
 
 
                                     N
-  _Niña de la tierra_                                               36-37
+  _Ni�a de la tierra_                                               36-37
 
 
                                     O
@@ -2050,7 +2083,7 @@ YOUR NATIONAL PARK SYSTEM IN THE SOUTHWEST. IN WORDS AND COLOR. Jackson.
 Southwest Region, with full-color photograph for 54 of the 56 areas
 listed. Most authoritative treatment possible, by 32-year former career
 N.P.S. employee, with every text checked for accuracy by Regional Office
-and each area’s superintendent. Also contains “How to Get There”
+and each area's superintendent. Also contains "How to Get There"
 appendix. 64 pages, 56 full-color illustrations, color cover, paper.
                                                                    $1.95
 
@@ -2060,7 +2093,7 @@ Photographic hints. 64 pp., full-color cover, paper.
                                                                    $1.50
 
 100 ROADSIDE WILDFLOWERS OF SOUTHWEST UPLANDS IN NATURAL COLOR. Dodge.
-Companion book to author’s 100 Desert Wildflowers in Natural Color, but
+Companion book to author's 100 Desert Wildflowers in Natural Color, but
 for higher elevation flowers. 64 pages and full-color cover, paper.
                                                                    $1.50
 
@@ -2089,7 +2122,7 @@ lower desert country of the Southwest below the 4,500-foot elevation.
 
 MAMMALS OF SOUTHWEST MOUNTAINS AND MESAS. Olin and Bierly. Companion
 volume to Mammals of Southwest Deserts. Fully illustrated in exquisitely
-done fine and scratchboard drawings, and written in Olin’s masterfully
+done fine and scratchboard drawings, and written in Olin's masterfully
 lucid style. Gives description, ranges, and life habits of the better
 known Southwestern mammals of the uplands. Color cover, paper
                                                                    $2.00
@@ -2102,10 +2135,10 @@ Cloth
 
                                Write For Catalog
               _SOUTHWEST PARKS AND MONUMENTS ASSOCIATION_
-                     Box 1562—Globe, Arizona 85501
+                     Box 1562--Globe, Arizona 85501
 
 
-12th Edition (Revised) 8-70—20M
+12th Edition (Revised) 8-70--20M
 
 
 
@@ -2122,23 +2155,23 @@ the cryotherapy treatment should read:
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Retained publication information from the printed edition: this eBook
+--Retained publication information from the printed edition: this eBook
   is public-domain in the country of publication.
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
-—Silently corrected a few typos.
+--Silently corrected a few typos.
 
-—Tweaked the order of the Table of Contents to match the text.
+--Tweaked the order of the Table of Contents to match the text.
 
-—Incorporated the “erratum” (from an inserted slip) into the text. The
+--Incorporated the "erratum" (from an inserted slip) into the text. The
   erroneous Step 3 replicated Step 2.
 
-—Inserted references to unreferenced endnotes at apparently-appropriate
+--Inserted references to unreferenced endnotes at apparently-appropriate
   places.
 
 
@@ -2150,4 +2183,365 @@ the cryotherapy treatment should read:
 End of the Project Gutenberg EBook of Poisonous Dwellers of the Desert, by 
 Natt Noyes Dodge
 
-*** END OF THE PROJECT GUTENBERG EBOOK 54548 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK POISONOUS DWELLERS OF THE DESERT ***
+
+***** This file should be named 54548-8.txt or 54548-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/4/5/4/54548/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
